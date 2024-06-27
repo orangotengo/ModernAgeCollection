@@ -1,0 +1,30 @@
+"versions": [
+    
+    {
+        "id": "A100",
+        "releasedAt": 1718886420,
+        "promotions": {
+            "downloads": {
+                "modrinth": "https://modrinth.com/modpack/modernage-collection/version/A100/",
+            }
+        }
+    }
+    {
+        "id": "A170",
+        "releasedAt": 1719165960,
+        "promotions": {
+            "downloads": {
+                "modrinth": "https://modrinth.com/modpack/modernage-collection/version/A170/",
+            }
+        }
+    }
+    {
+        "id": "A220",
+        "releasedAt": 1719610200,
+        "promotions": {
+            "downloads": {
+                "modrinth": "https://modrinth.com/modpack/modernage-collection/version/A220/",
+            }
+        }
+    }
+]
